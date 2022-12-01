@@ -1,0 +1,33 @@
+body
+{background-image:url('/') ;
+background-color: aqua;}
+
+header
+{text-align: center;
+border-bottom-left-radius:5px;
+border-bottom-right-radius:5px}
+
+nav, footer, aside 
+{display: block, inline;}
+
+footer
+{text-align: center;
+background-color: gray;}
+
+nav ul 
+{ margin:0px;
+padding: 5px ;
+}
+
+nav li
+{display:inline;
+margin-right: 40px;
+background-color: grey;
+text-align: center;}
+
+aside li 
+{background-color: grey;
+margin-right: 79%;
+height: 60px;
+text-align: center;}
+
